@@ -1,0 +1,24 @@
+td{
+    font-size: 12px;
+}
+th{
+    font-size: 12px;
+}
+button{
+    font-size: 8px;
+    border: 1px solid ;
+    color: red;
+}
+.contact-btn{
+    background-color: black;
+    color: #fff;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 5px;
+}
+.contact-btn:hover{
+    opacity: 0.7;
+}
+
+
+
